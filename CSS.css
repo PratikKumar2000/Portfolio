@@ -33,6 +33,7 @@
         top: 0cm;
         position: sticky;
         background: rgb(6, 241, 210);
+	z-index: 999;
     }
   .navbar.max-width {
         display: flex;
